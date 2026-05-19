@@ -1,0 +1,101 @@
+customer_id,name,email,signup_date,country,age
+1,Customer_1,cust1@email.com,01/01/2022,CA,61.0
+2,Customer_2,cust2@email.com,11/01/2022,US,
+3,Customer_3,cust3@email.com,21/01/2022,NZ,
+4,Customer_4,cust4@email.com,31/01/2022,NZ,46.0
+5,Customer_5,cust5@email.com,10/02/2022,CA,20.0
+6,Customer_6,cust6@email.com,20/02/2022,US,42.0
+7,Customer_7,cust7@email.com  ,02/03/2022,AU,54.0
+8,Customer_8,cust8@email.com,12/03/2022,US,32.0
+9,Customer_9,cust9@email.com,22/03/2022,UK,26.0
+10,Customer_10,cust10@email.com,01/04/2022,UK,60.0
+11,Customer_11,cust11@email.com,11/04/2022,AU,54.0
+12,Customer_12,cust12@email.com,21/04/2022,CA,62.0
+13,Customer_13,cust13@email.com,01/05/2022,AU,66.0
+14,Customer_14,cust14@email.com  ,11/05/2022,CA,69.0
+15,Customer_15,cust15@email.com,21/05/2022,AU,49.0
+16,Customer_16,cust16@email.com,31/05/2022,NZ,58.0
+17,Customer_17,cust17@email.com,10/06/2022,UK,62.0
+18,Customer_18,cust18@email.com,20/06/2022,NZ,37.0
+19,Customer_19,cust19@email.com,30/06/2022,CA,25.0
+20,Customer_20,cust20@email.com,10/07/2022,CA,35.0
+21,Customer_21,cust21@email.com  ,20/07/2022,AU,69.0
+22,Customer_22,cust22@email.com,30/07/2022,AU,32.0
+23,Customer_23,cust23@email.com,09/08/2022,AU,61.0
+24,Customer_24,cust24@email.com,19/08/2022,NZ,60.0
+25,Customer_25,cust25@email.com,29/08/2022,AU,48.0
+26,Customer_26,cust26@email.com,08/09/2022,UK,67.0
+27,Customer_27,cust27@email.com,18/09/2022,AU,57.0
+28,Customer_28,cust28@email.com  ,28/09/2022,US,29.0
+29,Customer_29,cust29@email.com,08/10/2022,CA,43.0
+30,Customer_30,cust30@email.com,18/10/2022,US,41.0
+31,Customer_31,cust31@email.com,28/10/2022,NZ,24.0
+32,Customer_32,cust32@email.com,07/11/2022,NZ,47.0
+33,Customer_33,cust33@email.com,17/11/2022,AU,32.0
+34,Customer_34,cust34@email.com,27/11/2022,NZ,61.0
+35,Customer_35,cust35@email.com  ,07/12/2022,AU,31.0
+36,Customer_36,cust36@email.com,17/12/2022,US,26.0
+37,Customer_37,cust37@email.com,27/12/2022,AU,53.0
+38,Customer_38,cust38@email.com,06/01/2023,AU,41.0
+39,Customer_39,cust39@email.com,16/01/2023,CA,41.0
+40,Customer_40,cust40@email.com,26/01/2023,CA,50.0
+41,Customer_41,cust41@email.com,05/02/2023,CA,63.0
+42,Customer_42,cust42@email.com  ,15/02/2023,UK,48.0
+43,Customer_43,cust43@email.com,25/02/2023,US,32.0
+44,Customer_44,cust44@email.com,07/03/2023,NZ,32.0
+45,Customer_45,cust45@email.com,17/03/2023,AU,65.0
+46,Customer_46,cust46@email.com,27/03/2023,CA,56.0
+47,Customer_47,cust47@email.com,06/04/2023,AU,27.0
+48,Customer_48,cust48@email.com,16/04/2023,CA,41.0
+49,Customer_49,cust49@email.com  ,26/04/2023,NZ,61.0
+50,Customer_50,cust50@email.com,06/05/2023,US,58.0
+51,Customer_51,cust51@email.com,16/05/2023,NZ,35.0
+52,Customer_52,cust52@email.com,26/05/2023,NZ,63.0
+53,Customer_53,cust53@email.com,05/06/2023,NZ,38.0
+54,Customer_54,cust54@email.com,15/06/2023,US,48.0
+55,Customer_55,cust55@email.com,25/06/2023,NZ,36.0
+56,Customer_56,cust56@email.com  ,05/07/2023,NZ,25.0
+57,Customer_57,cust57@email.com,15/07/2023,CA,55.0
+58,Customer_58,cust58@email.com,25/07/2023,NZ,33.0
+59,Customer_59,cust59@email.com,04/08/2023,US,52.0
+60,Customer_60,cust60@email.com,14/08/2023,NZ,43.0
+61,Customer_61,cust61@email.com,24/08/2023,US,51.0
+62,Customer_62,cust62@email.com,03/09/2023,US,53.0
+63,Customer_63,cust63@email.com  ,13/09/2023,US,65.0
+64,Customer_64,cust64@email.com,23/09/2023,UK,60.0
+65,Customer_65,cust65@email.com,03/10/2023,NZ,47.0
+66,Customer_66,cust66@email.com,13/10/2023,UK,34.0
+67,Customer_67,cust67@email.com,23/10/2023,UK,
+68,Customer_68,cust68@email.com,02/11/2023,NZ,61.0
+69,Customer_69,cust69@email.com,12/11/2023,NZ,
+70,Customer_70,cust70@email.com  ,22/11/2023,UK,52.0
+71,Customer_71,cust71@email.com,02/12/2023,AU,54.0
+72,Customer_72,cust72@email.com,12/12/2023,CA,51.0
+73,Customer_73,cust73@email.com,22/12/2023,NZ,68.0
+74,Customer_74,cust74@email.com,01/01/2024,US,
+75,Customer_75,cust75@email.com,11/01/2024,US,38.0
+76,Customer_76,cust76@email.com,21/01/2024,CA,29.0
+77,Customer_77,cust77@email.com  ,31/01/2024,NZ,29.0
+78,Customer_78,cust78@email.com,10/02/2024,CA,33.0
+79,Customer_79,cust79@email.com,20/02/2024,CA,41.0
+80,Customer_80,cust80@email.com,01/03/2024,CA,63.0
+81,Customer_81,cust81@email.com,11/03/2024,NZ,21.0
+82,Customer_82,cust82@email.com,21/03/2024,NZ,51.0
+83,Customer_83,cust83@email.com,31/03/2024,AU,34.0
+84,Customer_84,cust84@email.com  ,10/04/2024,CA,36.0
+85,Customer_85,cust85@email.com,20/04/2024,NZ,
+86,Customer_86,cust86@email.com,30/04/2024,AU,
+87,Customer_87,cust87@email.com,10/05/2024,UK,
+88,Customer_88,cust88@email.com,20/05/2024,UK,66.0
+89,Customer_89,cust89@email.com,30/05/2024,NZ,
+90,Customer_90,cust90@email.com,09/06/2024,UK,41.0
+91,Customer_91,cust91@email.com  ,19/06/2024,NZ,39.0
+92,Customer_92,cust92@email.com,29/06/2024,CA,38.0
+93,Customer_93,cust93@email.com,09/07/2024,CA,20.0
+94,Customer_94,cust94@email.com,19/07/2024,AU,33.0
+95,Customer_95,cust95@email.com,29/07/2024,CA,30.0
+96,Customer_96,cust96@email.com,08/08/2024,NZ,47.0
+97,Customer_97,cust97@email.com,18/08/2024,US,48.0
+98,Customer_98,cust98@email.com  ,28/08/2024,UK,
+99,Customer_99,cust99@email.com,07/09/2024,CA,53.0
+100,Customer_100,cust100@email.com,17/09/2024,CA,56.0
