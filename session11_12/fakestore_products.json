@@ -1,0 +1,14 @@
+[
+  {"id": 1, "title": "Classic Cotton T-Shirt", "price": 22.3, "category": "men's clothing", "description": "Soft everyday cotton tee.", "rating": {"rate": 3.9, "count": 120}},
+  {"id": 2, "title": "Slim Fit Jeans", "price": 55.99, "category": "men's clothing", "description": "Stretch denim, slim cut.", "rating": {"rate": 4.1, "count": 259}},
+  {"id": 3, "title": "Insulated Winter Jacket", "price": 109.95, "category": "men's clothing", "description": "Warm, water-resistant shell.", "rating": {"rate": 4.7, "count": 500}},
+  {"id": 4, "title": "Women's Knit Sweater", "price": 39.99, "category": "women's clothing", "description": "Lightweight knit, multiple colours.", "rating": {"rate": 3.5, "count": 430}},
+  {"id": 5, "title": "Summer Floral Dress", "price": 49.0, "category": "women's clothing", "description": "Breathable cotton, mid-length.", "rating": {"rate": 4.2, "count": 130}},
+  {"id": 6, "title": "Leather Crossbody Bag", "price": 64.5, "category": "women's clothing", "description": "Genuine leather, adjustable strap.", "rating": {"rate": 4.6, "count": 146}},
+  {"id": 7, "title": "Gold Plated Bracelet", "price": 695.0, "category": "jewelery", "description": "18k gold plated, hypoallergenic.", "rating": {"rate": 4.6, "count": 400}},
+  {"id": 8, "title": "Silver Drop Earrings", "price": 10.99, "category": "jewelery", "description": "Sterling silver, everyday wear.", "rating": {"rate": 3.0, "count": 70}},
+  {"id": 9, "title": "Portable SSD 1TB", "price": 109.0, "category": "electronics", "description": "USB-C, fast read/write.", "rating": {"rate": 4.8, "count": 319}},
+  {"id": 10, "title": "Wireless Headphones", "price": 199.99, "category": "electronics", "description": "Active noise cancelling.", "rating": {"rate": 4.4, "count": 870}},
+  {"id": 11, "title": "27\" 4K Monitor", "price": 329.99, "category": "electronics", "description": "IPS panel, 60Hz.", "rating": {"rate": 4.3, "count": 210}},
+  {"id": 12, "title": "Mechanical Keyboard", "price": 89.0, "category": "electronics", "description": "Hot-swappable switches.", "rating": {"rate": 4.5, "count": 540}}
+]
