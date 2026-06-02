@@ -15,8 +15,8 @@ You do not write code for this assessment. You analyse the allocated notebook an
 
 A global fashion retailer wants to predict which products each customer is likely to purchase next, so it can make better recommendations.
 
-- **Competition:** https://www.kaggle.com/competitions/hand-m-personalized-fashion-recommendations
-- **Code:** *H&M EDA First Look* — https://www.kaggle.com/code/vanguarde/hm-eda-first-look
+- **Competition:** [https://www.kaggle.com/competitions/hand-m-personalized-fashion-recommendations](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations)
+- **Code:** [*H&M EDA First Look* — https://www.kaggle.com/code/vanguarde/hm-eda-first-look](https://www.kaggle.com/code/remekkinas/h-m-eda-first-look-into-data)
 
 ---
 
@@ -51,8 +51,8 @@ Player tracking data from American football games is explored to better understa
 
 Building characteristics and weather data are used to understand and predict the energy consumption of different buildings.
 
-- **Competition:** https://www.kaggle.com/competitions/widsdatathon2022
-- **Code:** *EDA, WiDS Datathon 2022* — https://www.kaggle.com/code/khsamaha/eda-wids-datathon-2022
+- **Competition:** [https://www.kaggle.com/competitions/widsdatathon2022](https://www.kaggle.com/competitions/widsdatathon2022)
+- **Code:** [*EDA, WiDS Datathon 2022* — https://www.kaggle.com/code/khsamaha/eda-wids-datathon-2022](https://www.kaggle.com/code/farazrahman/bee-building-energy-efficiency-eda)
 
 ---
 
